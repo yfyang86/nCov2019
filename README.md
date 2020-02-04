@@ -18,6 +18,6 @@ print(y$val)
 print(y$val)
 ```
 
-![fig1](./man/v1.pdf)
-![fig2](./man/v2.pdf)
+![fig1](./man/v1.png)
+![fig2](./man/v2.png)
 
