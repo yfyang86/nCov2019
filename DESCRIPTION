@@ -1,12 +1,18 @@
 Package: nCov2019
 Title: Stats of the '2019-nCov' Cases
 Version: 0.0.1
-Authors@R: person("Guangchuang", "Yu", email = "guangchuangyu@gmail.com", role = c("aut", "cre"))
+Authors: Guangchuang Yu<guangchuangyu@gmail.com>, Yifan Yang<yfyang.86@gmail.com>
 Description: Download statistical number of the Wuhan 2019-nCov cases. 
 Depends: R (>= 3.4.0)
 Imports: 
   jsonlite,
-  stats
+  stats,
+  data.table,
+  dplyr,
+  maps,
+  ggplot2,
+  wesanderson,
+  mapdata
 Suggests:
   utils
 License: Artistic-2.0
