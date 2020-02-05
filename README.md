@@ -40,7 +40,7 @@ print(y$val)
 print(y$val)
 dev.off()
 ##TODO: Raw Data
-save.iamge(paste(time_str, '.RData', sep=''))
+save.image(paste(time_str, '.RData', sep=''))
 ```
 
 Shell
